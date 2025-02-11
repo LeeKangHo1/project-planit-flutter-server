@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/35872f1d-e268-4469-bb6b-64221fa1d643
 ### 협업
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 ### 프로젝트 기간
-- 2024년 12월 26일 ~ 2024년 1월 13일
+- 2024년 12월 26일 ~ 2025년 1월 13일
 ## 목차
 ### 1. 담당 업무
 - 화면 설계
