@@ -40,25 +40,29 @@ https://github.com/user-attachments/assets/35872f1d-e268-4469-bb6b-64221fa1d643
 - 할 일 추가
 - 내 정보
 ---
-### 1. 담당 업무
+## 1. 담당 업무
 - ### 1) 화면 설계
-	![[화면설계 깃허브용2.jpg]]
+	![화면설계 깃허브용2](https://github.com/user-attachments/assets/3c4869e2-7966-4992-a22e-8cd065449b1d)
 
 - ### 2) 메인 화면 (할 일 목록)
-	![[메인 화면 작업.jpg]]
+	![메인 화면 작업](https://github.com/user-attachments/assets/89458201-0959-437e-bd22-448de4cfaf64)
+
 	- #### 메인 화면
 		- 모든 해야 할 일(작업) 출력
 		- 작업의 마감 시간간에 따라 오늘 이전, 오늘, 오늘 이후(미래)로 분류
 		- 동그라미 체크 시 완료된 작업으로 이동동
 		- 아래쪽 바텀 네비게이션 바를 통해 사이드바, 캘린더, 내 정보로 이동 가능
 	- #### 완료된 작업
-		- 간편한 날짜 별 분류를 위한  dart:collection library를 활용
-		![[완료된 작업 분류.jpg]]
+		- 날짜 별 분류를 위한  dart:collection library를 활용
+    
+		![완료된 작업 분류](https://github.com/user-attachments/assets/959f7741-6e95-436d-8be9-925b969360c0)
+
 	- #### 사이드바
 		- 카테고리 확인, 비밀번호 변경, 로그아웃 
 
 - ### 3) 회원 관련 기능
-	![[회원관련.png]]
+	![회원 관련 깃허브용](https://github.com/user-attachments/assets/55a1da13-e3cb-41f8-b6b9-5020ee652fb1)
+
 	- 로그인, 자동 로그인
 	- 아이디 & 비밀번호 찾기 (변경)
 	- 회원가입
@@ -72,7 +76,8 @@ https://github.com/user-attachments/assets/35872f1d-e268-4469-bb6b-64221fa1d643
 	- 팀에서 정한 컨벤션과 api 문서를 잘 지키는 것의 중요성을 다시 한 번 느꼈습니다.
 
 - ### 2) 안드로이드 스튜디오에서 디버깅 중 발생한 문제
-	![[디버깅 에러.png]]
+	![디버깅 에러](https://github.com/user-attachments/assets/7e564c5e-2ad5-4c69-abed-8626de2946cb)
+
 	- 집에서 한 작업물을 학원에서 디버깅을 위해 안드로이드 스튜디오의 에뮬레이터를 실행했을 때 발생했습니다.
 	- 자바 21은 Android Gradle Plugin(AGP) 버전 8.2.1 이상을 요구하는데 집에서는 자바 17을 사용 중이라 AGP 버전이 8.1.0으로 되어 있어서 발생한 문제였습니다.
 	- 자바 버전과 AGP 버전, gradle 버전과의 관계를 몰라서 gpt에 여러 번 질문하고 stackoverflow 같은 해외 사이트까지 검색을 해서야 해결할 수 있었습니다.
@@ -85,24 +90,31 @@ https://github.com/user-attachments/assets/35872f1d-e268-4469-bb6b-64221fa1d643
 - API 서버로 모바일 앱을 개발하면서 데이터를 제공하는 API 서버만 잘 만들면 모바일 뿐 아니라 웹 애플리케이션, 데스크탑 애플리케이션 등 다양한 플랫폼에서 활용 가능하다는 장점을 느꼈습니다.
 ### 4. 그 외 작업
 - ### 사이트맵
-	![[사이트맵.jpg]]
+	![사이트맵](https://github.com/user-attachments/assets/e8282159-b088-4a22-a38f-782795baaa3c)
+
 
 - ### 백엔드 서버
 	- 깃허브 링크: https://github.com/LeeKangHo1/project-planit-api-server
 	- 데이터베이스스 ERD
-		![[erd 깃허브 올릴 거.png]]
+   
+		![erd 깃허브 올릴 거](https://github.com/user-attachments/assets/fb8c6387-7f5d-4bfa-862e-97ee93009927)
+
 	- API 문서
-		![[api 문서.jpg]]
+   
+		![api 문서](https://github.com/user-attachments/assets/6292a6ee-2242-475b-98c4-6536b4fe294f)
+
 
 - ### 할 일 추가
-	![[메모 반복 설정.png]]
+	![메모 반복 설정](https://github.com/user-attachments/assets/524e895b-4432-4afb-8144-d3487787cf8c)
+
 	- 카테고리 선택
 	- 마감일 선택
 	- 반복 작업 설정
 	- 메모 추가
 
 - ### 내 정보
-	![[내 프로필.png]]
+	![내 프로필](https://github.com/user-attachments/assets/1da9001d-3ae5-48b4-ac4a-aa0f2e84eae3)
+
 	- 사용자 닉네임 상단에 표시
 	- 완료 & 미완료 작업 개수
 	- 일일 작업 완료 그래프
