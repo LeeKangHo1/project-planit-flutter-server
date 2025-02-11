@@ -95,7 +95,7 @@ https://github.com/user-attachments/assets/35872f1d-e268-4469-bb6b-64221fa1d643
 
 - ### 백엔드 서버
 	- 깃허브 링크: https://github.com/LeeKangHo1/project-planit-api-server
-	- 데이터베이스스 ERD
+	- 데이터베이스 ERD
    
 		![erd 깃허브 올릴 거](https://github.com/user-attachments/assets/fb8c6387-7f5d-4bfa-862e-97ee93009927)
 
